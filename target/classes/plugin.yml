@@ -1,0 +1,41 @@
+name: mBasic
+author: Matrix Development
+version: 1.0.0
+main: club.matrixhcf.mbasic.mBasic
+commands:
+  mbasic:
+    description: About the plugin
+  feed:
+    description: Feeds a player
+  heal:
+    description: Heals a player
+  gmc:
+    description: Puts you in gamemode creative
+  gms:
+    description: Puts you in gamemode survival
+  gmsp:
+    description: Puts you in gamemode spectator
+  gma:
+    description: Puts you in gamemode adventure
+  clear:
+    aliases: [ci]
+    description: Clears your or the players inventory
+  raw:
+    aliases: [rawbc, bcraw]
+    description: Says something with out chat format
+  tp:
+    aliases: [ teleport ]
+    description: Teleports you to a user.
+  msg:
+    aliases: [ message ]
+    description: Messages a user on the server.
+  reply:
+    aliases: [ r ]
+    description: Replies to a user
+  togglepm:
+    aliases: [tpm]
+    description: Toggle pms with a user.
+  ping:
+    aliases: [pg]
+    description: Shows a user's ping.
+

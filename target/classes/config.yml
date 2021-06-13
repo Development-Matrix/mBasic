@@ -1,0 +1,43 @@
+# Thank you for using mBasic
+# If you have any questions comments or concerns please join our support discord at: https://discord.gg/wgNNQnPqW6
+
+no-permission: "&cNo permission."
+offline: "&cThat player is currently offline."
+
+feed:
+  usage: "&cUsage: /feed <player>"
+  completed: "&aSuccessfully fed %player%."
+  fed: "&6You have been fed."
+
+heal:
+  usage: "&cUsage: /heal <player>"
+  completed: "&aSuccessfully healed %player%."
+  healed: "&6You have been healed."
+
+gamemode:
+  updated: "&6Your gamemode has been updated."
+  updated-other: "&aYou have updated %target%'s gamemode."
+
+clear:
+  usage: "&cUsage: /clear <player>"
+  completed: "&aSuccessfully cleared %player%."
+  cleared: "&6Your inventory has been wiped."
+
+tp:
+  usage: "&cUsage: /tp <player>"
+  completed: "&6You have teleported to %player%"
+
+message:
+  usage: "&cUsage: /msg <player> <message>"
+  from-format: "&7%target% &6-> &7%player%: %msg%"
+  to-format: "&7%player% &6-> &7%target%: %msg%"
+  togglepm-user: "&cThat user has messages disabled."
+  togglepm-you: "&cYou have messaged disabled."
+  togglepm-enable: "&aYou have enabled messages."
+  togglepm-disable: "&cYou have disable messages."
+  replying-to: "&aYou are currently replying to &f%target%&a."
+  not-conversation: "&cYou aren't in a conversation."
+
+ping:
+  ping-message: "&e%target%'s Ping: &6&l%ping%"
+  ping-your: "&eYour ping: &6&l%ping%"
